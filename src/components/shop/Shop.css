@@ -1,0 +1,41 @@
+.title {
+  text-align: left;
+}
+
+img {
+  width: 247px;
+  height: 245px;
+}
+
+.stripe {
+  margin-left: 365px;
+  text-align: initial;
+  margin-top: 18px;
+}
+
+.products-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  
+}
+
+.product {
+  width: 258px;
+  height: auto;
+  background-color: #f6f6f4;
+  padding-top: 10px;
+  border-radius: 25px;
+}
+
+.table{
+  width: 1029px;
+  margin-left: 159px;
+  margin-top: 59px;
+}
+
+.search{
+  margin-left: 544px;
+  width: 321px;
+}
+
