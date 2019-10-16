@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/kisumuonline/static/css/main.c9a060ca.chunk.css",
+    "main.js": "/kisumuonline/static/js/main.0d709b7e.chunk.js",
+    "main.js.map": "/kisumuonline/static/js/main.0d709b7e.chunk.js.map",
+    "runtime-main.js": "/kisumuonline/static/js/runtime-main.b8feee1d.js",
+    "runtime-main.js.map": "/kisumuonline/static/js/runtime-main.b8feee1d.js.map",
+    "static/css/2.34a4b903.chunk.css": "/kisumuonline/static/css/2.34a4b903.chunk.css",
+    "static/js/2.b8459886.chunk.js": "/kisumuonline/static/js/2.b8459886.chunk.js",
+    "static/js/2.b8459886.chunk.js.map": "/kisumuonline/static/js/2.b8459886.chunk.js.map",
+    "index.html": "/kisumuonline/index.html",
+    "precache-manifest.a10502eefa9b1514fae430f0e2bb855d.js": "/kisumuonline/precache-manifest.a10502eefa9b1514fae430f0e2bb855d.js",
+    "service-worker.js": "/kisumuonline/service-worker.js",
+    "static/css/2.34a4b903.chunk.css.map": "/kisumuonline/static/css/2.34a4b903.chunk.css.map",
+    "static/css/main.c9a060ca.chunk.css.map": "/kisumuonline/static/css/main.c9a060ca.chunk.css.map",
+    "static/media/Sweat.jpg": "/kisumuonline/static/media/Sweat.8e40f20b.jpg",
+    "static/media/handbag.jpg": "/kisumuonline/static/media/handbag.4ff6a5fa.jpg",
+    "static/media/shirt.jpg": "/kisumuonline/static/media/shirt.725ba2eb.jpg",
+    "static/media/shoe.jpeg": "/kisumuonline/static/media/shoe.5d592e8a.jpeg",
+    "static/media/trouser.jpg": "/kisumuonline/static/media/trouser.39351e85.jpg",
+    "static/media/womenshirt.jpg": "/kisumuonline/static/media/womenshirt.a32b5fd3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8feee1d.js",
+    "static/css/2.34a4b903.chunk.css",
+    "static/js/2.b8459886.chunk.js",
+    "static/css/main.c9a060ca.chunk.css",
+    "static/js/main.0d709b7e.chunk.js"
+  ]
+}
